@@ -3,3 +3,6 @@ spring:
     name: server
 server:
   port: 8080
+nacos:
+  user: ${nacos.user}
+  password: @nacos.password@
