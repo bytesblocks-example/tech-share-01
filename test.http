@@ -3,3 +3,7 @@ GET {{host}}/test/yoy HTTP/1.1
 
 
 ###
+# @name
+GET {{host}}/test/config HTTP/1.1
+
+###

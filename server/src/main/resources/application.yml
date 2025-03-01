@@ -3,3 +3,5 @@ spring:
     name: server
 server:
   port: 8080
+oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
