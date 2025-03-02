@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: server
+  profiles:
+    active: dev
+server:
+  port: 9999
+oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
